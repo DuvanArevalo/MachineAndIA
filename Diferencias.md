@@ -44,4 +44,18 @@
 **La IA es el todo** (el campo amplio que busca imitar la inteligencia humana).  
 **El ML es una parte de la IA** (la que se centra en aprender de los datos).
 
+## Referencias
 
+**Amazon Web Services (AWS) – "IA vs. Machine Learning"
+Explican que el ML es una rama específica de la IA, con un enfoque más limitado, y describen diferencias clave en objetivos, métodos e implementación.
+
+-Amazon Web Services, Inc.
+
+**Google Cloud – "AI vs. Machine Learning"
+Definen la IA como un concepto amplio para que las máquinas razonen y actúen como los humanos, y el ML como una aplicación concreta de la IA basada en datos.
+
+-Google Cloud
+
+
+**El blog de Elastic – "Machine learning comparado con la AI"
+Ilustra la IA como el objetivo general de simular inteligencia humana y el ML como la técnica basada en patrones y aprendizaje para lograrlo.
